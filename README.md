@@ -1,10 +1,4 @@
 # Sample Sass project
-This project contains
-1. index file
-  Sass Folder
-    1. style.scss
-  css Folder
-    1. style.css
-  js Folder
-    1. jquery.js
-    2. script.js
+This project can be used as a start to Sass project. There are several files in sass folder with sample code written.
+
+## use this project to easily build your Sass project.
