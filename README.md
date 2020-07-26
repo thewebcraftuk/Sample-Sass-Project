@@ -1,1 +1,1 @@
-# Sample Sass html project
+# Sample Sass html project with jquery
