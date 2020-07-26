@@ -1,6 +1,10 @@
 # Sample Sass project
 This project contains
 1. index file
-2. Sass file
-3. style file
-4. jquery
+  Sass Folder
+    1. style.scss
+  css Folder
+    1. style.css
+  js Folder
+    1. jquery.js
+    2. script.js
