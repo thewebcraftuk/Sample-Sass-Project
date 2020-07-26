@@ -1,1 +1,1 @@
-# Sample sass html project
+# Sample Sass html project
